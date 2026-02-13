@@ -1,2 +1,77 @@
 # paycheque-auditor-privacy
 Privacy policy for Paycheque Auditor
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Privacy Policy - Project Auditor V1</title>
+<style>
+body {
+font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+line-height: 1.6;
+max-width: 800px;
+margin: 0 auto;
+padding: 20px;
+color: #333;
+}
+h1 { color: #2c3e50; }
+h2 { color: #34495e; margin-top: 30px; }
+.last-updated { color: #7f8c8d; font-style: italic; }
+</style>
+</head>
+<body>
+<h1>Privacy Policy for Project Auditor V1</h1>
+<p class="last-updated">Last Updated: February 12, 2026</p>
+
+<h2>Overview</h2>
+<p>Project Auditor V1 ("the App") is committed to protecting your privacy. This Privacy Policy explains how the App handles your information.</p>
+
+<h2>Information Collection and Use</h2>
+<p>Project Auditor V1 is designed with privacy in mind:</p>
+<ul>
+<li><strong>Local Data Storage:</strong> All paycheck data, calculations, and paystub information are stored locally on your device only.</li>
+<li><strong>No Cloud Storage:</strong> We do not collect, transmit, or store any of your personal or financial data on external servers.</li>
+<li><strong>No Account Required:</strong> The App does not require user registration or account creation.</li>
+<li><strong>No Analytics:</strong> We do not collect usage analytics or tracking data.</li>
+</ul>
+
+<h2>OCR and Image Processing</h2>
+<p>When you use the paystub scanning feature:</p>
+<ul>
+<li>Images are processed locally on your device using Apple's Vision framework</li>
+<li>No images or extracted data are transmitted to external servers</li>
+<li>You maintain full control over stored images and can delete them at any time</li>
+</ul>
+
+<h2>Data Security</h2>
+<p>Your data is protected by:</p>
+<ul>
+<li>iOS device-level encryption</li>
+<li>Secure local storage using Apple's standard data protection</li>
+<li>No third-party access to your information</li>
+</ul>
+
+<h2>Third-Party Services</h2>
+<p>Project Auditor V1 does not integrate with any third-party services, analytics platforms, or advertising networks.</p>
+
+<h2>Children's Privacy</h2>
+<p>The App is not directed to individuals under the age of 13. We do not knowingly collect information from children.</p>
+
+<h2>Changes to This Privacy Policy</h2>
+<p>We may update this Privacy Policy from time to time. Any changes will be reflected in the "Last Updated" date above and posted within the App.</p>
+
+<h2>Contact Information</h2>
+<p>If you have questions about this Privacy Policy, please contact:</p>
+<p>Email: [hiddenedgelogicguidancetech@gmail.com]<br>
+Developer: Hiddenedgelogic</p>
+
+<h2>Your Rights</h2>
+<p>Since all data is stored locally on your device:</p>
+<ul>
+<li>You have complete control over your data</li>
+<li>You can delete all app data by uninstalling the App</li>
+<li>No data portability is required as no data leaves your device</li>
+</ul>
+</body>
+</html>
